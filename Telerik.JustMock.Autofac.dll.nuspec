@@ -3,7 +3,7 @@
   <metadata>
     <id>JustMock.Autofac</id>
     <title>JustMock.Autofac</title>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
     <authors>dragnev</authors>
     <owners>dragnev</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
@@ -14,13 +14,12 @@
     <copyright>Copyright 2015</copyright>
     <tags>justmock autofac</tags>
     <dependencies>
-      <dependency id="JustMock" version="2014.1.1424.1" />
+      <dependency id="JustMock" version="2015.3.929.5" />
 	  <dependency id="Autofac" version="3.5.2" />
     </dependencies>
   </metadata>
-
   <files>
-    <file src="Telerik.JustMock.Autofac\bin\Release\Telerik.JustMock.Autofac.dll" target="lib/Net45"/>
-    <file src="Telerik.JustMock.Autofac\bin\Release\Telerik.JustMock.Autofac.xml" target="lib/Net45"/>
+    <file src="Telerik.JustMock.Autofac\bin\Release\Telerik.JustMock.Autofac.dll" target="lib/Net40"/>
+    <file src="Telerik.JustMock.Autofac\bin\Release\Telerik.JustMock.Autofac.xml" target="lib/Net40"/>
   </files>
 </package>
